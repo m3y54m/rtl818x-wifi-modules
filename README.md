@@ -34,7 +34,9 @@ The RTL8188 module has a different shape which you can use it in your customized
 
 ### Datasheet
 
-Here is the datasheet of this module: 
+Here is the datasheet of this module:
+
+[docs/bl-r8188eu1.pdf](docs/bl-r8188eu1.pdf)
 
 ## RTL8189
 
@@ -59,4 +61,6 @@ As it is metioned before **RTL8189** module is based on RTL8189ETV chipset which
 
 ### Datasheet
 
-Here is the datasheet of this module: 
+Here is the datasheet of this module:
+
+[docs/BL-R8189RM2ETV-Product-Specification.pdf](docs/BL-R8189RM2ETV-Product-Specification.pdf)
