@@ -10,7 +10,7 @@ The main difference between RTL8188EUS and RTL8189ETV is in their interfaces. RT
 
 ![image](https://github.com/m3y54m/rtl818x-wifi-modules/assets/1549028/52e0b50d-faaf-4969-9c36-6f5ec6c583ae)
 
-The RTL8188 module has a different shape which you can use it in your customized hardware designs. There are different variations of this module which mostly have almost the same footprints and sizes.
+The RTL8188 module has a different shape which you can use it in your customized hardware designs. There are different variations of this module which mostly have similar footprints and sizes.
 
 ![image](https://github.com/m3y54m/rtl818x-wifi-modules/assets/1549028/b70b92c8-b2a4-40ac-946b-afee5e3e6f45)
 
@@ -21,7 +21,6 @@ The RTL8188 module has a different shape which you can use it in your customized
 ### Footprint and Dimensions
 
 ![image](https://github.com/m3y54m/rtl818x-wifi-modules/assets/1549028/3124f755-d7ab-4a41-a4e5-8d9c2e83d546)
-
 
 ### Pinout
 
@@ -40,7 +39,7 @@ Here is the datasheet of this module:
 
 ## RTL8189
 
-As it is metioned before **RTL8189** module is based on RTL8189ETV chipset which provides SDIO as its main interface for connecting to the MCU/MPU of your system. Just like RTL8188 there are different variations of RTL8189 module which mostly have almost the same footprints and sizes.
+As it is metioned before **RTL8189** module is based on RTL8189ETV chipset which provides SDIO as its main interface for connecting to the MCU/MPU of your system. Just like RTL8188 there are different variations of RTL8189 module which mostly have similar footprints and sizes.
 
 ![image](https://github.com/m3y54m/rtl818x-wifi-modules/assets/1549028/a4e8609f-44c6-4f5a-af2b-ce9b4d1f2cd2)
 ![image](https://github.com/m3y54m/rtl818x-wifi-modules/assets/1549028/c92947ab-d9e3-410a-b4c5-ae46d0c858cc)
