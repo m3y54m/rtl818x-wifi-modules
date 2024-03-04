@@ -63,3 +63,9 @@ As it is metioned before **RTL8189** module is based on RTL8189ETV chipset which
 Here is the datasheet of this module:
 
 [docs/BL-R8189RM2ETV-Product-Specification.pdf](docs/BL-R8189RM2ETV-Product-Specification.pdf)
+
+## Software & Drivers
+
+- [SUNXI Wifi Drivers](https://linux-sunxi.org/Wifi)
+- [rtl8189ES_linux](https://github.com/jwrdegoede/rtl8189ES_linux)
+
